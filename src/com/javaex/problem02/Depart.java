@@ -19,7 +19,7 @@ public class Depart extends Employee {
 		this.department = department;
 	}
 	public void getInformation() {
-		System.out.println("이름:"+ super.getName() +"연봉:"+ super.getName() +"부서:"+department);
+		System.out.println("이름:"+ super.getName() +"  연봉:"+ super.getName() +"  부서:"+department);
 	}
     //코드작성
 
